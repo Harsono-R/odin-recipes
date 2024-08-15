@@ -1,1 +1,2 @@
 # odin-recipes
+This will be a simple website that contains links to various recipes. By the end of the project, I will have demonstrated how to upload a project to Github and my current proficiency in html.
